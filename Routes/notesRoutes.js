@@ -1,5 +1,5 @@
 const notesRouter = require("express").Router();
-const { createNote, deleteNote } = require("../lib/notes.js");
+const { createNote, deleteNote } = require("../lib/notes");
 
 let notesContent = require("../db/db");
 

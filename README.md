@@ -1,5 +1,5 @@
 # BizNotes
-  DEMO VIDEO LINK: TBD
+  DEPLOY LINK: [Click Here](https://biznotes.herokuapp.com/)
   ## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
