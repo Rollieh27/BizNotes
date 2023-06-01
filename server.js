@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
-const notesRouter = require("./routes/notesRoutes.js");
-const htmlRouter = require("./routes/htmlRoutes.js");
+const notesRouter = require("./routes/notesRoutes");
+const htmlRouter = require("./routes/htmlRoutes");
 const PORT = process.env.PORT || 3001;
 
 app.use(express.urlencoded({ extended: true }));
